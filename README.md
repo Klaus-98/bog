@@ -1,0 +1,2 @@
+# bog
+blog de platzi
